@@ -1,0 +1,30 @@
+<html>
+ <head>
+     <p>my p</p>
+ </head>
+<body>
+    
+<h1><u> product</u></h1>
+<img src="https://blob.sololearn.com/courses/np.png">
+<p><i>this is very good</i></p>
+<ol>
+<li>thi</li>
+<li>is</li>
+<li>good</li>
+</ol>
+<form>
+    <label for = "q1">Name:</label>
+    <input id = "q1" type = "text"><br>
+    <label for = "q2">Email:</label>
+    <input id = "q2" type = "email"><br>
+    <h2>order now : </h2>
+    <label for = "q3">select now</label>
+    <select id = "q3">
+        <option> opt1</option>
+        <option> opt2</option>
+        <option> hii</option>
+    </select><br>
+    <input type = "submit">
+</form>
+</body>
+</html>
